@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Milestone I in the University of Michigan.
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about Statistics, Math, Basic Python.
+- 📫 How to reach me: skyfront@umich.edu
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 <!--
 **skyfrontumich/skyfrontumich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
